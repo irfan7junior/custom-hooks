@@ -23,5 +23,13 @@
   },
   "devDependencies": {
     "typescript": "^4.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfan7junior/custom-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/irfan7junior/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/irfan7junior/custom-hooks#readme"
 }

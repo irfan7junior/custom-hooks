@@ -1,5 +1,5 @@
 {
-  "name": "@irfan7junior/custom_hooks",
+  "name": "@irfan7junior/custom-hooks",
   "version": "1.0.0",
   "description": "A simple hooks library",
   "main": "dist/index.js",

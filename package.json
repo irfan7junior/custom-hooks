@@ -1,0 +1,27 @@
+{
+  "name": "@irfan7junior/custom_hooks",
+  "version": "1.0.0",
+  "description": "A simple hooks library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "['customhooks'",
+    "'fetchhook'",
+    "'axios'",
+    "'react'",
+    "'typescript']"
+  ],
+  "author": "irfan7junior",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "axios": "^0.21.0",
+    "@types/react": "^16.9.56"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}

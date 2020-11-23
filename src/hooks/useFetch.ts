@@ -47,7 +47,6 @@ export const useFetchObject = <IData>(
 
   React.useEffect(() => {
     if (loadOnMount) {
-      console.log('useEffect')
       fetchData()
     }
   }, [loadOnMount, fetchData])
